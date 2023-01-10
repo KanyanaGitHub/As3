@@ -1,24 +1,23 @@
-GET http://localhost:3000/api/customer/63bcca8148b4eee4638f6020
-
+GET http://localhost:3000/api/customer/63bccf8f294df35ccb248ff2
 ###
-POST http://localhost:3000/api/customer/63bcca8148b4eee4638f6020 HTTP/1.1
+POST http://localhost:3000/api/customer HTTP/1.1
 Content-Type: application/json
+
 {
-    "_id": "63bcca8148b4eee4638f6020",
-  "ProductID": "006",
+  "ProductID": "007",
   "ProductType": "PV",
-  "ProductName": "Ayaka",
+  "ProductName": "Thoma",
   "ProductPrice": 180
 }
 
 ###
-PUT http://localhost:3000/api/customer/63bcca8148b4eee4638f6020 HTTP/1.1
+PUT http://localhost:3000/api/customer/63bccf8f294df35ccb248ff2 HTTP/1.1
 Content-Type: application/json
+
 {
-    "_id": "63bcca8148b4eee4638f6020",
-  "ProductID": "007",
+  "ProductID": "006",
   "ProductType": "PV",
-  "ProductName": "Sayu",
+  "ProductName": "Ayaka",
   "ProductPrice": 180
 }
 
