@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63a27fb157b816a5573b265c"
+  }
+},{
+  "_id": {
+    "$oid": "63a2808a4912ce61c222cdeb"
+  },
+  "ProductID": "001",
+  "ProductType": "PV",
+  "ProductName": "RaidenShogun",
+  "ProductPrice": 180
+},{
+  "_id": {
+    "$oid": "63a28fe84912ce61c222cded"
+  },
+  "ProductID": "002",
+  "ProductType": "PV",
+  "ProductName": "YaeMiko",
+  "ProductPrice": 180
+},{
+  "_id": {
+    "$oid": "63a290a84912ce61c222cdf0"
+  },
+  "ProductID": "003",
+  "ProductType": "PV",
+  "ProductName": "KujoSara",
+  "ProductPrice": 90
+}]
